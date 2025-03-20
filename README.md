@@ -54,4 +54,20 @@ Debug.log("--")
 - [ ] https://github.com
 - [ ] add
 
+![image](
+    ![alt text](2025-03-19_00-07-45-photon_v1-1447813365.png)
+)
 
+Prompt
+soldier's diary, tablet, homecoming instinct ,2d texture for tablet screen only, futuristic, Right only, What's on the screen
+Go to Wish List, 2d texture
+
+Nagative Prompt
+
+(
+  
+)
+
+![igmae](
+    ![alt text](image.png)
+)
